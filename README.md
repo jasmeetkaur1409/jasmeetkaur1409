@@ -10,10 +10,12 @@ I'm a Computer Science graduate (B.A. Programme, University of Delhi) actively l
 
 ### 🛠️ Tech Stack
 
-**Languages & Libraries:** Python (Pandas, NumPy, Scikit-learn), SQL  
-**Visualization:** Power BI (DAX), Excel, Matplotlib, Seaborn  
-**Tools:** Jupyter Notebook, GitHub
-
+![Python](https://img.shields.io/badge/Python-0C447C?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0C447C?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-0C447C?style=flat-square&logo=powerbi&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-0C447C?style=flat-square&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-0C447C?style=flat-square&logo=scikitlearn&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-0C447C?style=flat-square&logo=microsoftexcel&logoColor=white)
 ---
 
 ### 📌 Featured Projects
@@ -34,8 +36,7 @@ I'm a Computer Science graduate (B.A. Programme, University of Delhi) actively l
 
 ### 📫 Connect with me
 
-• https://www.linkedin.com/in/jasmeet-kaur-817413295/  • jasmeetmonga1409@email.com
-
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jasmeet-kaur-817413295/)
+- 📧 [jasmeetmonga1409@email.com](mailto:jasmeetmonga1409@email.com)
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=jasmeetkaur1409&show_icons=true&theme=radical" width="450"/>
