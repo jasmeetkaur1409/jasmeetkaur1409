@@ -1,3 +1,5 @@
+![Banner](https://raw.githubusercontent.com/jasmeetkaur1409/jasmeetkaur1409/main/assets/banner.png)
+
 # Hi, I'm Jasmeet Kaur 👋
 
 ### Data Analyst | Turning Data into Decisions
