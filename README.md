@@ -2,7 +2,7 @@
 
 ### Data Analyst | Turning Data into Decisions
 
-I'm a Computer Science graduate (B.A. Programme, Bharati College, University of Delhi) actively looking for **Data Analyst / BI Analyst** roles in Delhi NCR. I like digging into messy data until it tells a clear story.
+I'm a Computer Science graduate (B.A. Programme, University of Delhi) actively looking for **Data Analyst / BI Analyst** roles in Delhi NCR. I like digging into messy data until it tells a clear story.
 
 ---
 
