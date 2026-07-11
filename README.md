@@ -34,7 +34,7 @@ I'm a Computer Science graduate (B.A. Programme, University of Delhi) actively l
 
 ### 📫 Connect with me
 
-https://www.linkedin.com/in/jasmeet-kaur-817413295/  • jasmeetmonga1409@email.com
+• https://www.linkedin.com/in/jasmeet-kaur-817413295/  • jasmeetmonga1409@email.com
 
 ---
 
