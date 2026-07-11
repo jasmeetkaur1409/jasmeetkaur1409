@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/jasmeetkaur1409/jasmeetkaur1409/main/assets/banner.png)
+![Banner](https://raw.githubusercontent.com/jasmeetkaur1409/jasmeetkaur1409/main/jasmeet_github_banner%20(1).png)
 
 # Hi, I'm Jasmeet Kaur 👋
 
